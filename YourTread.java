@@ -18,6 +18,7 @@ public class Tre{
         YourTread you = new YourTread();
         you.task();
         System.out.println("..Application is Ended.....");
+        System.out.println("..Application is Ended.....");
         
         
         
